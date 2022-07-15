@@ -1,4 +1,4 @@
-# top3Insitute
+# Top 3 Institute Educational and Funding & Spending Performance Report
 
 Based on National Institutional Ranking Framework 2021 data a Report of top 3 Institutes to show
 
